@@ -26,14 +26,6 @@ I'm Konni Devi, an aspiring Data Analyst passionate about turning raw data into 
 🔹 Lung Cancer Survival Prediction → Data-driven healthcare analytics
 🔹 Python Data Analysis → Cleaning & visualizing real-world datasets
 
-📊 GitHub Activity
-🏆 GitHub Trophy
-
-📈 GitHub Stats
-
-🔥 GitHub Streak
-
-🌟 Top Languages
 
 🌍 Let's Connect!
 📧 Email: devikonni022@gmail.com
