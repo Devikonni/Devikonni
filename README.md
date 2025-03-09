@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Konni Devi!
+🔍 Aspiring Data Analyst | Power BI | Excel | SQL | Python Developer
 
-<!--
-**Devikonni/Devikonni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 About Me
+🎓 Bachelor's in Geoinformatics from Andhra University (2024)
+📊 Passionate about data analytics, business intelligence, and  Machine Learning
+🛠️ Skilled in Power BI, SQL, Python, Excel, DAX, and data visualization
+🚀 Currently upskilling in data analytics and business intelligence tools
+🌱 Learning Power BI, SQL, Tableau, Python, and R
+📂 Notable Projects
+🔹 Coffee Shop Sales – Sales analysis and trends visualization
+🔹 Vrinda Store Sales Report – E-commerce sales insights using Power BI
+🔹 Finance Data Analysis - Power BI Report – DAX, data modeling, and dashboards
+🔹 Brazilian E-Commerce Olist Store Analytics – Customer insights and performance metrics
+🔹 Insurance Analytics – Risk analysis and claim prediction
+🔹 Lung Cancer Survival Analysis & Prediction – Machine learning-based survival prediction
 
-Here are some ideas to get you started:
+📬 Let's Connect!
+🌍 Location: Open to remote and hybrid opportunities
+📧 Email: devikonni022@gmail.com
+🔗 LinkedIn: Your LinkedIn Profile
+💻 GitHub: github.com/yourusername
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Exploring insights, one dataset at a time! 🚀
