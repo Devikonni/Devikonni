@@ -41,8 +41,7 @@ Hello! I'm **Konni Devi**, an aspiring Data Analyst passionate about turning raw
 
 ---
 
-🚀 **"Transforming data into insights, one report at a time!"**
----
+
 
 ## 🌱 **Future Goals**
 - 🌟 **Become an expert in Data Analytics** by mastering tools like Power BI, SQL, Python, and Tableau.
@@ -65,6 +64,4 @@ Whether you're looking for insights, visualizations, or just someone to brainsto
 ## 🎉 **Thank You for Visiting!**
 I appreciate your time in exploring my work. Be sure to check out my repositories for more exciting projects, and don’t forget to leave a star ⭐ if you find something useful!
 
----
-
-🚀 **"Transforming data into insights, one report at a time!"**
+ 
